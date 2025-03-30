@@ -1,13 +1,13 @@
-### **Overview:**
+## **Overview:**
 This project enables voice-based control for robots or smart systems using speech recognition. The system listens for predefined voice commands and executes corresponding actions, making interactions more intuitive and hands-free.
 
-### **Features:**
+## **Features:**
 * Real-time Speech Recognition – Converts spoken commands into text
 * Customizable Commands – Easily modify the code to add new actions
 * Hands-Free Control – Ideal for robotics and automation
 * Works with Various Platforms – Can be integrated with Arduino, Raspberry Pi, or Bluetooth modules
 
-### **How It Works:**
+## **How It Works:**
 * The system continuously listens for voice input using a microphone.
 * The speech is processed using Google's Speech Recognition API.
 * The recognized text is compared with predefined commands:

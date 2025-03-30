@@ -1,6 +1,7 @@
-import speechrecognition as sr
-import pyaudio
-You can install these libraries in the following manner:
+## **The following are the libraries used :**
+* import speechrecognition as sr
+* import pyaudio
+## You can install these libraries in the following manner:
 * SPEECH RECOGNITION:
   * **Bash :** pip install speechrecognition
   * **Jupyter :** !pip install speechrecognition
